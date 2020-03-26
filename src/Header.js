@@ -81,7 +81,7 @@ export default function Header(props) {
         ))}
       </Toolbar>
       <Grid container direction="row" justify="space-evenly" alignItems="center">
-          <Typography className={classes.title}>Title</Typography>
+          <Typography className={classes.title}>Long-Long-Title</Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>
               <SearchIcon />
